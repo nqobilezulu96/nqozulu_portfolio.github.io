@@ -1,7 +1,6 @@
 # 👩🏽‍💻 Junior Analytics Engineer
 
-📍 Vosloorus, Gauteng, South Africa  
-📧 nqozulu96@gmail.com | 📱 +27 72 912 5967  
+📍 South Africa 📧 nqozulu96@gmail.com | 📱 +27 72 912 5967  
 
 ---
 
