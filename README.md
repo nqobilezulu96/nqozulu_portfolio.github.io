@@ -18,6 +18,10 @@ _2015 – 2018_
 
 ## 💼 Work Experience
 
+**General Intern**  
+*Valenture Institute*  
+_Oct 2020 – Jul 2021_  
+
 **Junior Analytics Engineer**  
 *Valenture Institute*  
 _Jul 2021 – Oct 2023_  
@@ -26,10 +30,6 @@ _Jul 2021 – Oct 2023_
 - Ensured data integrity and delivered actionable analytics  
 - Presented weekly insights to Marketing & Admissions management  
 - Supported forecasting and predictive modeling projects
-
-**General Intern**  
-*Valenture Institute*  
-_Oct 2020 – Jul 2021_  
 
 **Volunteer Data Analyst**  
 *Catchafire*  
@@ -50,11 +50,7 @@ _May 2024 – Present_
 
 ## 🌟 Projects & Highlights
 
-### 📊 Analytics Dashboard for Marketing Performance  
-Created an interactive Looker dashboard tracking conversion funnels, regional sign-ups, and lead behavior, enabling weekly data-driven decision-making.
-
-### 🔮 Forecasting Student Enrollment  
-Used historical application and campaign data to support predictive modeling of future enrollments. Provided insights to leadership on marketing ROI.
+### 
 
 ### 🎨 Data Storytelling for Non-Profit Impact (Catchafire)  
 Converted qualitative impact reports into visual formats, including word clouds and mind maps, helping NGOs communicate their value more effectively.
