@@ -50,7 +50,6 @@ _May 2024 – Present_
 
 ## 🌟 Projects & Highlights
 
-### 
 
 ### 🎨 Data Storytelling for Non-Profit Impact (Catchafire)  
 Converted qualitative impact reports into visual formats, including word clouds and mind maps, helping NGOs communicate their value more effectively.
