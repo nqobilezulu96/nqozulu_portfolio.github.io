@@ -67,8 +67,7 @@ Converted qualitative impact reports into visual formats, including word clouds 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE) *(insert yours if available)*  
-- 📝 [Blog/Portfolio](https://yourportfolio.com) *(optional)*  
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR-LINK-HERE](https://www.linkedin.com/in/nqobile-zulu-473060115/))  
 - 📧 nqozulu96@gmail.com
 
 ---
